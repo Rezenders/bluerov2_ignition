@@ -22,7 +22,7 @@
       <visual name="base_link_visual">
         <geometry>
           <mesh>
-            <uri>model://bluerov2_heavy/meshes/bluerov2_heavy.dae</uri>
+            <uri>meshes/bluerov2_heavy.dae</uri>
             <scale>0.025 0.025 0.025</scale>
           </mesh>
         </geometry>
@@ -84,7 +84,7 @@
         <pose>0 0 0 -1.571 0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://bluerov2_heavy/meshes/t200_ccw_prop.dae</uri>
+            <uri>meshes/t200_ccw_prop.dae</uri>
           </mesh>
         </geometry>
       </visual>
@@ -107,7 +107,7 @@
         <pose>0 0 0 -1.571 0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://bluerov2_heavy/meshes/t200_ccw_prop.dae</uri>
+            <uri>meshes/t200_ccw_prop.dae</uri>
           </mesh>
         </geometry>
       </visual>
@@ -130,7 +130,7 @@
         <pose>0 0 0 1.571 0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://bluerov2_heavy/meshes/t200_cw_prop.dae</uri>
+            <uri>meshes/t200_cw_prop.dae</uri>
           </mesh>
         </geometry>
       </visual>
@@ -153,7 +153,7 @@
         <pose>0 0 0 1.571 0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://bluerov2_heavy/meshes/t200_cw_prop.dae</uri>
+            <uri>meshes/t200_cw_prop.dae</uri>
           </mesh>
         </geometry>
       </visual>
@@ -176,7 +176,7 @@
         <pose>0 0 0 -1.571 0 1.571</pose>
         <geometry>
           <mesh>
-            <uri>model://bluerov2_heavy/meshes/t200_ccw_prop.dae</uri>
+            <uri>meshes/t200_ccw_prop.dae</uri>
           </mesh>
         </geometry>
       </visual>
@@ -199,7 +199,7 @@
         <pose>0 0 0 1.571 0 1.571</pose>
         <geometry>
           <mesh>
-            <uri>model://bluerov2_heavy/meshes/t200_cw_prop.dae</uri>
+            <uri>meshes/t200_cw_prop.dae</uri>
           </mesh>
         </geometry>
       </visual>
@@ -222,7 +222,7 @@
         <pose>0 0 0 1.571 0 1.571</pose>
         <geometry>
           <mesh>
-            <uri>model://bluerov2_heavy/meshes/t200_cw_prop.dae</uri>
+            <uri>meshes/t200_cw_prop.dae</uri>
           </mesh>
         </geometry>
       </visual>
@@ -245,7 +245,7 @@
         <pose>0 0 0 -1.571 0 1.571</pose>
         <geometry>
           <mesh>
-            <uri>model://bluerov2_heavy/meshes/t200_ccw_prop.dae</uri>
+            <uri>meshes/t200_ccw_prop.dae</uri>
           </mesh>
         </geometry>
       </visual>
